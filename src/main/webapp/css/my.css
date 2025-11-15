@@ -1,0 +1,9 @@
+#TableBase, #TableBase td, #TableBase tr, #TableBase th {
+    border: 1px solid black;
+}
+
+#TableBase {
+    background-color: antiquewhite;
+}
+
+
