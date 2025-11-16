@@ -4,8 +4,10 @@
 
 #TableBase {
     background-color: antiquewhite;
-    margin-left: 100px;
+    margin-left: 10px;
     margin-right: auto;
 }
 
-
+#paging_buttons {
+    margin-left: 10px;
+}
